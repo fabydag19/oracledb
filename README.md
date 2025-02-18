@@ -1,2 +1,2 @@
-# py_oracle_script
-A simple script to connect to Oracle Database and execute a query.
+# oracledb
+A simple python script to connect to Oracle Database and execute a query using oracledb library.
